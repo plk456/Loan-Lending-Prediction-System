@@ -1,7 +1,8 @@
 # Loan-Lending-System
+
 Protecting lenders with predictive analytics
 
-# Lending Club Loan Status Prediction
+# Lending Loan Status Prediction
 
 ## Introduction
 
